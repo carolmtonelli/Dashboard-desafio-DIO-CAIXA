@@ -1,6 +1,6 @@
 # Dashboard-desafio-DIO-CAIXA
 Este repositório foi criado para apresentar meu projeto no desafio DIO CAIXA - Planilhas inteligentes e AI 
-# DASHBOARD para controle de utilização de verba de envio de postagens pelos Correios
+# MAIL APP - DASHBOARD para controle de utilização de verba de envio de postagens pelos Correios
 ## 📒 Descrição
 Olá! Eu sou a Carolina Tonelli te apresento o MAIL APP, uma planilha que vai facilitar a visualização e controle da verba disponibilizada para envio de postagens pelo Correios, facilitando análises e tomada de decisões.
 
