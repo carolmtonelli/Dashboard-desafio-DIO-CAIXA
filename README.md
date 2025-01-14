@@ -12,7 +12,7 @@ Segui as orientações do professor durante as aulas no BOOTCAMP DIO CAIXA e apl
 
 ## 🚀 Resultados
 O resultado é uma apresentação visual que tem como objetivo facilitar análise e tomada de decisão.
-- [E-BOOK](https://gamma.app/docs/E-Book-IA-e-Sustentabilidade-Como-o-uso-da-Tecnologia-Pode-ser-um-j0xtzfkkwpyg3as)
+- [MAIL APP]([https://gamma.app/docs/E-Book-IA-e-Sustentabilidade-Como-o-uso-da-Tecnologia-Pode-ser-um-j0xtzfkkwpyg3as](https://github.com/carolmtonelli/Dashboard-desafio-DIO-CAIXA/blob/main/DashBoard%20Correios.xlsx))
 
 ## 👨‍💻 Expert
 
